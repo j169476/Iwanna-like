@@ -1,0 +1,27 @@
+# Private/course hand-in files
+*.docx
+README.txt
+更新日志.txt
+
+# Generated diagrams may contain local notes or personal naming
+流程图.*
+状态机图.*
+
+# Build outputs and IDE metadata
+*.o
+*.obj
+*.exe
+*.dll
+*.layout
+*.dev
+Makefile.win
+
+# Vendored third-party SDK files; install SDL2/SDL2_ttf separately instead
+Iwanna/include/
+Iwanna/lib/
+Iwanna/bin/
+
+# Fonts are not redistributed with this repository
+Iwanna/assets/Font/*
+!Iwanna/assets/Font/.gitkeep
+

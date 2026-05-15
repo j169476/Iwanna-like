@@ -1,0 +1,16 @@
+block 64 0 25 650
+block 10 750 400 30
+block 500 650 300 30
+block 850 550 200 30
+block 1100 450 200 30
+destination 1400 400 50 50
+spike 410 720 25 5
+spike 415 715 15 5
+spike 420 710 5 5
+spike 460 720 25 5
+spike 465 715 15 5
+spike 470 710 5 5
+spike 1130 409 25 5
+spike 1135 414 15 5
+spike 1140 419 5 5
+spike 0 875 1600 10
